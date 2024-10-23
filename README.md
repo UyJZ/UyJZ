@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am an undergraduate student at Beihang University.
+
+- 🔭 I’m currently studying at Beihang University.
+- 🌱 I’m currently interested in Computer Vision (especially 3D generation) and multimodal learning.
+- 📫 How to reach me: 2601666034@qq.com
+- 😄 My hobbies: football (at a very basic level), sports, movies, and travel
