@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+> 别害怕，太阳会照常升起
 
 I am an undergraduate student at Beihang University.
 
